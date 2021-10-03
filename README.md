@@ -13,16 +13,13 @@
 ## Set-Skill Programming  
 
 ### Marathon  
-#### Day 2  
+#### Day 3  
 
-- Code structure
-- Main method + program lifecycle
-- methods
-- types concat
-  - string + int
-  - int + double
-- boolean "yes/no" variables
-- if/else logic
+- Methods with parameters
+- while loop
+- program exit block
+- `.equals()` vs `==`
+- Sample menu logic
 
 
 <!-- CONTACT -->
