@@ -7,7 +7,7 @@ public class Homework1 {
     public static void main(String[] args) {
         printName();
         printYear();
-        printAddress();
+        printMyAddress();
     }
 
     static void printName() {
@@ -24,7 +24,7 @@ public class Homework1 {
         System.out.println("ФИО: " + fullName);
     }
 
-    static void printAddress() {
+    static void printMyAddress() {
         System.out.println("Enter your city: ");
         String city = new Scanner(System.in).nextLine();
 
